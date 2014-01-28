@@ -1,0 +1,10 @@
+
+myList = [4,5,2,1,6,7,8,9,]
+
+smallest = myList[0]
+
+for number in mylist:
+    if number < smallest:
+        smallest = number
+
+print smallest

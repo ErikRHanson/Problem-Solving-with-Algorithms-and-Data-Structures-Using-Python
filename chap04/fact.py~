@@ -1,0 +1,12 @@
+
+
+
+def main():
+
+    print "main"
+    num = 3
+    print(fact(3))
+
+
+if __name__ == "__main__":
+    main()

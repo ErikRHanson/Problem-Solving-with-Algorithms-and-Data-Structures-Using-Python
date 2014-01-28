@@ -1,0 +1,5 @@
+import turtle
+
+myTurtle = turtle.Turtle()
+myWin = turtle.Screen()
+

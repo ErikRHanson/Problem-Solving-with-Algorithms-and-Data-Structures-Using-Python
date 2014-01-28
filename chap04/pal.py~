@@ -1,0 +1,14 @@
+
+def helper(s1, s2):
+    if s1 == s2:
+        return True
+    return False
+
+def isPal(s):
+    if len(s) <= 2:
+        return helper(s[0],s[-1])
+    else:
+        return helper(s[0],s[-1]) + isPal(s[1:-2])
+        
+
+print(isPal("aba"))
