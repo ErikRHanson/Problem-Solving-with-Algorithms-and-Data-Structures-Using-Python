@@ -1,0 +1,699 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"quickS",
+				"quickSortHelper"
+			],
+			[
+				"po",
+				"position-1"
+			],
+			[
+				"a",
+				"alist"
+			],
+			[
+				"H",
+				"H"
+			],
+			[
+				"rand",
+				"randrange"
+			],
+			[
+				"op",
+				"operandStack"
+			],
+			[
+				"opera",
+				"operand1"
+			],
+			[
+				"pin",
+				"pinB"
+			],
+			[
+				"news",
+				"newstring"
+			],
+			[
+				"chain_",
+				"chain_container"
+			],
+			[
+				"ge",
+				"getElementsById"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"setT",
+				"setTimeout"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"fail",
+				"failPhrases"
+			],
+			[
+				"scr",
+				"scrollText"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mrgin",
+				"margin-top"
+			],
+			[
+				"sha",
+				"shape"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"toda",
+				"todayStr"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"Lu",
+				"Lucida"
+			],
+			[
+				"anima",
+				"animation"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"forma",
+				"formatColor"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"an",
+				"anumation"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"supp",
+				"supportedProp"
+			],
+			[
+				"v",
+				"vendorProp"
+			],
+			[
+				"pro",
+				"prop"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"mart",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"follow",
+				"followed_user"
+			],
+			[
+				"mi",
+				"micropost"
+			],
+			[
+				"have",
+				"have_link"
+			],
+			[
+				"users",
+				"users_path"
+			],
+			[
+				"return",
+				"return_to"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"click",
+				"click_link"
+			],
+			[
+				"it",
+				"information"
+			],
+			[
+				"n",
+				"new"
+			],
+			[
+				"E",
+				"Engine"
+			],
+			[
+				"en",
+				"end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "chap05/shellSort.py",
+			"settings":
+			{
+				"buffer_size": 633,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chap05/mergeSort.py",
+			"settings":
+			{
+				"buffer_size": 704,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chap05/quickSort.py",
+			"settings":
+			{
+				"buffer_size": 878,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 361.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/HansonE/Dropbox/Documents/Projects/mitOpenCourseWare/6.006-Introduction to Algorithms (Fall 2011)/problemSolving_Algorithms/chap05/selectionSort.py",
+		"/Users/HansonE/Dropbox/Documents/Projects/mitOpenCourseWare/6.006-Introduction to Algorithms (Fall 2011)/problemSolving_Algorithms/chap05/insertionSort.py",
+		"/Users/HansonE/Dropbox/Documents/Projects/mitOpenCourseWare/6.006-Introduction to Algorithms (Fall 2011)/problemSolving_Algorithms/ProblemSolvingAlgorithms.sublime-project",
+		"/Users/HansonE/Dropbox/Notes/Journals/2014-01-22-journal.md",
+		"/Users/HansonE/Dropbox/Notes/Journals/2014-01-24-journal.md",
+		"/Users/HansonE/Dropbox/Notes/Journals/2014-01-14-journal.md",
+		"/Users/HansonE/Dropbox/Notes/Journals/2014-01-15-journal.md",
+		"/Users/HansonE/Dropbox/Documents/Projects/mitOpenCourseWare/6.006-Introduction to Algorithms (Fall 2011)/problemSolving_Algorithms/chap03/simuPrinter.py",
+		"/Users/HansonE/Dropbox/Notes/Journals/2014-01-13-journal.md",
+		"/Users/HansonE/Dropbox/Documents/Projects/mitOpenCourseWare/6.006-Introduction to Algorithms (Fall 2011)/problemSolving_Algorithms/listing1.py",
+		"/Users/HansonE/Dropbox/Notes/Projects/1_Rdng Lst Hvng Intllgnt Cnv.textile",
+		"/Users/HansonE/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/41Light_Bulb/js/temp.js",
+		"/Users/HansonE/Dropbox/Documents/z_PythonWork/udacity_cs212/words4k.txt",
+		"/Users/HansonE/Dropbox/Documents/Projects/startup-class_dotfiles/README.md",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/28Click_Challenge/css/click_challenge.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/27RainMaker/rain_maker.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/27RainMaker/js/rain_maker.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/27RainMaker/css/rain_maker.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/26Simon/simon.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/26Simon/css/simon.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/26Simon/js/simon.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/25Scrambled/js/scrambled.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/25Scrambled/css/scrambled.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/25Scrambled/scrambled.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/25Scrambled/words.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/24Email_Impact/js/analytics.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/24Email_Impact/email_impact.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/24Email_Impact/css/email_impact.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/24Email_Impact/js/email_impact.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/.gitignore",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/23Stopwatch/stopwatch.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/23Stopwatch/css/stopwatch.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/23Stopwatch/js/stopwatch.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/keep_it_straight_lvl9.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/keep_it_straight_lvl5.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/keep_it_straight_lvl6.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/keep_it_straight_lvl7.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/keep_it_straight_lvl8.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/keep_it_straight_lvl4.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/keep_it_straight_lvl3.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/keep_it_straight_lvl2.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/js/keep_it_straight.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/keep_it_straight.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/css/keep_it_straight.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/keep_it_sraight_lvl1.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/22Keep_It_Straight/keep_it_sraight.html",
+		"/Users/HansonE/Dropbox/vs_Projects/Samples/TitleTableBL.cs",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/19Hipster_Quiz/hipster_quiz.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/19Hipster_Quiz/css/hipster_quiz.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/19Hipster_Quiz/js/hipster_quiz.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/hipster_quiz.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/18Building_Blocks/building_blocks.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/18Building_Blocks/css/building_blocks.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/18Building_Blocks/js/building_blocks.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/17Party_Time/party_time.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/17Party_Time/css/party_time.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/17Party_Time/js/party_time.js",
+		"/Users/HansonE/.bashrc",
+		"/Users/HansonE/.profile",
+		"/Users/HansonE/Dropbox/Documents/z_RubyWork/ruby_on_rails_tutorial_v3.1/rails_projects/first_app/.gitignore",
+		"/Users/HansonE/Dropbox/Documents/z_RubyWork/ruby_on_rails_tutorial_v3.1/rails_projects/first_app/Gemfile",
+		"/Users/HansonE/.gemrc",
+		"/Users/HansonE/Library/Application Support/Sublime Text 2/Packages/RubyTest/TestConsole.hidden-tmTheme",
+		"/Users/HansonE/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/HansonE/.bash",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/15Dropping_Boxes/js/dropping_boxes.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/15Dropping_Boxes/dropping_boxes.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/15Dropping_Boxes/css/dropping_boxes.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/14Tough_Love/js/tough_love.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/14Tough_Love/tough_love.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/14Tough_Love/css/tough_love.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/13Rock_Paper_Scissors/js/rock_paper_scissors.js",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/05Secret_Message/secret_message.html",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/05Secret_Message/css/secret_message.css",
+		"/Users/HansonE/Dropbox/Documents/Projects/180Websites/05Secret_Message/css/reset.css",
+		"/Users/HansonE/Desktop/drchronoHackerTest/Number3.py",
+		"/Users/HansonE/Desktop/drchronoHackerTest/drchronoHackerTest_3.txt",
+		"/Users/HansonE/Desktop/drchronoHackerTest/drchronoHackerTest_2.txt",
+		"/Users/HansonE/Desktop/drchronoHackerTest/Number2.py",
+		"/Users/HansonE/Desktop/drchronoHackerTest/Number1.py",
+		"/Users/HansonE/Desktop/drchronoHackerTest_4.txt",
+		"/Users/HansonE/Desktop/drchronoHackerTest_3.txt",
+		"/Users/HansonE/Desktop/drchronoHackerTest_2.txt",
+		"/Users/HansonE/Desktop/drchronoHackerTest_1.txt",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/models/micropost.rb",
+		"/Users/HansonE/.vim/ftplugin/javascript/jslint/jslint-core.js",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/models/user.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/spec/models/user_spec.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/spec/controllers/relationships_controller_spec.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/controllers/relationships_controller.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/spec/models/micropost_spec.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/views/relationships/create.js.erb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/views/relationships/destroy.js.erb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/spec/factories.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/spec/requests/user_pages_spec.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/db/migrate/20121213181050_create_microposts.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/views/users/_user.html.erb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/lib/tasks/sample_data.rake",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/db/migrate/20121205205430_add_admin_to_users.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/controllers/users_controller.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/views/users/index.html.erb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/spec/requests/authentication_pages_spec.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/views/users/edit.html.erb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v3/first_app/Gemfile",
+		"/Users/HansonE/Desktop/TurkeyFrying.txt",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/views/layouts/_header.html.erb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/spec/helpers/application_helper_spec.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/assets/stylesheets/custom.css.scss",
+		"/Users/HansonE/Desktop/TESWSH_FREIGHT_CHARGE_CALC_PKG.sql",
+		"/Volumes/THE GALAXY/Scripts_Python/csv_reader.py",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/Gemfile",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/config/routes.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/views/sessions/new.html.erb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/controllers/sessions_controller.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/helpers/sessions_helper.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/controllers/application_controller.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/spec/support/utilities.rb",
+		"/Users/HansonE/z_PythonWork/udacity_cs212/csuccessors.py",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/features/step_definitions/authentication_steps.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/features/signing_in.feature",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/assets/javascripts/application.js",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/db/migrate/20120828185852_add_remember_token_to_users.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/views/users/new.html.erb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/views/layouts/application.html.erb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/app/helpers/users_helper.rb",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/config/locales/en.yml",
+		"/Users/HansonE/z_RubyWork/ruby_on_rails_tutorial_v2/rails_projects/sample_app2/config/environments/production.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"valueTest",
+			"bulb",
+			"results",
+			"leters",
+			"functon",
+			"playSound",
+			"Exhibitor",
+			"Technicolor",
+			"StudioTes",
+			"resultType",
+			"StudioTes",
+			"UserIdent",
+			"StudioTes",
+			"#FF1493",
+			"anuma",
+			"micropost associations",
+			"config.active_record.",
+			"as non-admin user",
+			"describe \"with valid information\" do",
+			"/",
+			"//",
+			"miscellaneous",
+			"miscellan"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Site",
+			"Web",
+			"AccountNumber",
+			"UserId",
+			"AccountNumber"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "chap05/shellSort.py",
+					"settings":
+					{
+						"buffer_size": 633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								565,
+								565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 1.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "chap05/mergeSort.py",
+					"settings":
+					{
+						"buffer_size": 704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "chap05/quickSort.py",
+					"settings":
+					{
+						"buffer_size": 878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								878,
+								878
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"user_spec",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"user_s",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"home.",
+				"app/views/static_pages/home.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 336.0,
+	"status_bar_visible": true
+}
