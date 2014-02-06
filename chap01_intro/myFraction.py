@@ -1,22 +1,47 @@
 
 class Fraction:
     def __init__(self,top,bottom):
-        
-        self.num= top
-        self.den = bottom
+        # self.num= top
+        # self.den = bottom
+
+        if isinstance(top, int):
+            self.num= top
+        else:
+            raise ValueError("Top isn't an int")
+            
+        if isinstance(bottom, int):
+            self.den = bottom
+        else:
+            raise ValueError("bottom isn't an int")
+
+        common = gcd(self.num,self.den)
+        self.num = self.num//common
+        self.den = self.den//common
+
+
+
         
     def __str__(self):
+        return str(self.num)+"/"+str(self.den)
+
+    def __repr__(self):
         return str(self.num)+"/"+str(self.den)
 
     def __add__(self,otherfraction):
 
         newnum = self.num*otherfraction.den + self.den*otherfraction.num
         newden = self.den * otherfraction.den
-        common = gcd(newnum,newden)
-        return Fraction(newnum//common, newden//common)
+        # common = gcd(newnum,newden)
+        # return Fraction(newnum//common, newden//common)
+        return Fraction(newnum,newden)
 
-    def __sub__(self,otherfraction):
-        
+    def __radd__(self,otherfraction):
+        return __add__(otherfraction)
+
+    def __iadd__(self,otherfraction):
+        return __add__(otherfraction)
+
+    def __sub__(self,otherfraction):        
         newnum = self.num*otherfraction.den - self.den*otherfraction.num
         newden = self.den * otherfraction.den
         common = gcd(newnum,newden)
@@ -25,7 +50,6 @@ class Fraction:
     def __eq__(self, other):
         firstnum = self.num * other.den
         secondnum = other.num * self.den
-
         return firstnum == secondnum
 
     def __mul__(self,other):
@@ -37,15 +61,36 @@ class Fraction:
     def __trudiv__(self,other):
         newnum = self.num * other.den
         newden = self.den * other.num
-
         common = gcd(newnum, newnen)
         return Fraction(newnum//common,newden//comon)
 
     def __lt__(self, other):
         firstnum = self.num * other.den
         secondnum = other.num * self.den
-
         return firstnum < secondnum
+
+    def __le__(self, other):
+        firstnum = self.num * other.den
+        secondnum = other.num * self.den
+        return firstnum <= secondnum
+
+    def __gt__(self, other):
+        firstnum = self.num * other.den
+        secondnum = other.num * self.den
+
+        return firstnum > secondnum
+
+    def __ge__(self, other):
+        firstnum = self.num * other.den
+        secondnum = other.num * self.den
+
+        return firstnum >= secondnum
+
+    def __ne__(self, other):
+        firstnum = self.num * other.den
+        secondnum = other.num * self.den
+
+        return firstnum != secondnum
 
     def getNum(self):
         return self.num
@@ -92,5 +137,7 @@ def main():
     f2=Fraction(1,2)
     f3=f1+f2
     print(f3)
+
+    print(Fraction(2,4))
 
 main()
